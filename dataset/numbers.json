@@ -122,5 +122,25 @@
     {
         "id": 30,
         "GermanEnglish": "dreißig"
+    },
+    {
+        "id": 31,
+        "GermanEnglish": "einunddreißig"
+    },
+    {
+        "id": 32,
+        "GermanEnglish": "zweiunddreißig"
+    },
+    {
+        "id": 33,
+        "GermanEnglish": "dreiunddreißig"
+    },
+    {
+        "id": 34,
+        "GermanEnglish": "vierunddreißig"
+    },
+    {
+        "id": 35,
+        "GermanEnglish": "fünfunddreißig"
     }
 ]
