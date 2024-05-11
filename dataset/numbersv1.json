@@ -206,5 +206,69 @@
     {
         "id": 51,
         "GermanEnglish": "einundfünfzig"
+    },
+    {
+        "id": 52,
+        "GermanEnglish": "zweiundfünfzig"
+    },
+    {
+        "id": 53,
+        "GermanEnglish": "dreiundfünfzig"
+    },
+    {
+        "id": 54,
+        "GermanEnglish": "vierundfünfzig"
+    },
+    {
+        "id": 55,
+        "GermanEnglish": "fünfundfünfzig"
+    },
+    {
+        "id": 56,
+        "GermanEnglish": "sechsundfünfzig"
+    },
+    {
+        "id": 57,
+        "GermanEnglish": "siebenundfünfzig"
+    },
+    {
+        "id": 58,
+        "GermanEnglish": "achtundfünfzig"
+    },
+    {
+        "id": 59,
+        "GermanEnglish": "neunundfünfzig"
+    },
+    {
+        "id": 60,
+        "GermanEnglish": "sechzig"
+    },
+    {
+        "id": 61,
+        "GermanEnglish": "einundsechzig"
+    },
+    {
+        "id": 62,
+        "GermanEnglish": "zweiundsechzig"
+    },
+    {
+        "id": 63,
+        "GermanEnglish": "dreiundsechzig"
+    },
+    {
+        "id": 64,
+        "GermanEnglish": "vierundsechzig"
+    },
+    {
+        "id": 65,
+        "GermanEnglish": "fünfundsechzig"
+    },
+    {
+        "id": 66,
+        "GermanEnglish": "sechsundsechzig"
+    },
+    {
+        "id": 67,
+        "GermanEnglish": "siebenundsechzig"
     }
 ]

@@ -1,0 +1,1996 @@
+[
+    {
+        "id": 0,
+        "GermanEnglish": "null"
+    },
+    {
+        "id": 1
+    },
+    {
+        "id": 2
+    },
+    {
+        "id": 3
+    },
+    {
+        "id": 4
+    },
+    {
+        "id": 5
+    },
+    {
+        "id": 6
+    },
+    {
+        "id": 7
+    },
+    {
+        "id": 8
+    },
+    {
+        "id": 9
+    },
+    {
+        "id": 10
+    },
+    {
+        "id": 11,
+        "GermanEnglish": "Elf"
+    },
+    {
+        "id": 12,
+        "GermanEnglish": "Zwölf"
+    },
+    {
+        "id": 13,
+        "GermanEnglish": "Dreizehn"
+    },
+    {
+        "id": 14,
+        "GermanEnglish": "Vierzehn"
+    },
+    {
+        "id": 15,
+        "GermanEnglish": "Fünfzehn"
+    },
+    {
+        "id": 16,
+        "GermanEnglish": "Sechzehn "
+    },
+    {
+        "id": 17,
+        "GermanEnglish": "Siebzehn"
+    },
+    {
+        "id": 18,
+        "GermanEnglish": "Achtzehn"
+    },
+    {
+        "id": 19,
+        "GermanEnglish": "Neunzehn"
+    },
+    {
+        "id": 20,
+        "GermanEnglish": "zwanzig"
+    },
+    {
+        "id": 21,
+        "GermanEnglish": "einundzwanzig "
+    },
+    {
+        "id": 22,
+        "GermanEnglish": "zweiundzwanzig"
+    },
+    {
+        "id": 23,
+        "GermanEnglish": "dreiundzwanzig"
+    },
+    {
+        "id": 24,
+        "GermanEnglish": "vierundzwanzig"
+    },
+    {
+        "id": 25,
+        "GermanEnglish": "fünfundzwanzig"
+    },
+    {
+        "id": 26,
+        "GermanEnglish": "sechsundzwanzig"
+    },
+    {
+        "id": 27,
+        "GermanEnglish": "siebenundzwanzig"
+    },
+    {
+        "id": 28,
+        "GermanEnglish": "achtundzwanzig"
+    },
+    {
+        "id": 29,
+        "GermanEnglish": "neunundzwanzig"
+    },
+    {
+        "id": 30,
+        "GermanEnglish": "dreißig"
+    },
+    {
+        "id": 31,
+        "GermanEnglish": "einunddreißig"
+    },
+    {
+        "id": 32,
+        "GermanEnglish": "zweiunddreißig"
+    },
+    {
+        "id": 33,
+        "GermanEnglish": "dreiunddreißig"
+    },
+    {
+        "id": 34,
+        "GermanEnglish": "vierunddreißig"
+    },
+    {
+        "id": 35,
+        "GermanEnglish": "fünfunddreißig"
+    },
+    {
+        "id": 36,
+        "GermanEnglish": "sechsunddreißig"
+    },
+    {
+        "id": 37,
+        "GermanEnglish": "siebenunddreißig"
+    },
+    {
+        "id": 38,
+        "GermanEnglish": "achtunddreißig"
+    },
+    {
+        "id": 39,
+        "GermanEnglish": "neununddreißig"
+    },
+    {
+        "id": 40,
+        "GermanEnglish": "vierzig"
+    },
+    {
+        "id": 41,
+        "GermanEnglish": "einundvierzig"
+    },
+    {
+        "id": 42,
+        "GermanEnglish": "zweiundvierzig"
+    },
+    {
+        "id": 43,
+        "GermanEnglish": "dreiundvierzig"
+    },
+    {
+        "id": 44,
+        "GermanEnglish": "vierundvierzig"
+    },
+    {
+        "id": 45,
+        "GermanEnglish": "fünfundvierzig"
+    },
+    {
+        "id": 46,
+        "GermanEnglish": "sechsundvierzig"
+    },
+    {
+        "id": 47,
+        "GermanEnglish": "siebenundvierzig"
+    },
+    {
+        "id": 48,
+        "GermanEnglish": "achtundvierzig"
+    },
+    {
+        "id": 49,
+        "GermanEnglish": "neunundvierzig"
+    },
+    {
+        "id": 50,
+        "GermanEnglish": "fünfzig"
+    },
+    {
+        "id": 51,
+        "GermanEnglish": "einundfünfzig"
+    },
+    {
+        "id": 52,
+        "GermanEnglish": "zweiundfünfzig"
+    },
+    {
+        "id": 53,
+        "GermanEnglish": "dreiundfünfzig"
+    },
+    {
+        "id": 54,
+        "GermanEnglish": "vierundfünfzig"
+    },
+    {
+        "id": 55,
+        "GermanEnglish": "fünfundfünfzig"
+    },
+    {
+        "id": 56,
+        "GermanEnglish": "sechsundfünfzig"
+    },
+    {
+        "id": 57,
+        "GermanEnglish": "siebenundfünfzig"
+    },
+    {
+        "id": 58,
+        "GermanEnglish": "achtundfünfzig"
+    },
+    {
+        "id": 59,
+        "GermanEnglish": "neunundfünfzig"
+    },
+    {
+        "id": 60,
+        "GermanEnglish": "sechzig"
+    },
+    {
+        "id": 61,
+        "GermanEnglish": "einundsechzig"
+    },
+    {
+        "id": 62,
+        "GermanEnglish": "zweiundsechzig"
+    },
+    {
+        "id": 63,
+        "GermanEnglish": "dreiundsechzig"
+    },
+    {
+        "id": 64,
+        "GermanEnglish": "vierundsechzig"
+    },
+    {
+        "id": 65,
+        "GermanEnglish": "fünfundsechzig"
+    },
+    {
+        "id": 66,
+        "GermanEnglish": "sechsundsechzig"
+    },
+    {
+        "id": 67,
+        "GermanEnglish": "siebenundsechzig"
+    },
+    {
+        "id": 68,
+        "GermanEnglish": "achtundsechzig"
+    },
+    {
+        "id": 69,
+        "GermanEnglish": "neunundsechzig"
+    },
+    {
+        "id": 70,
+        "GermanEnglish": "siebzig"
+    },
+    {
+        "id": 71,
+        "GermanEnglish": "einundsiebzig"
+    },
+    {
+        "id": 72,
+        "GermanEnglish": "zweiundsiebzig"
+    },
+    {
+        "id": 73,
+        "GermanEnglish": "dreiundsiebzig"
+    },
+    {
+        "id": 74,
+        "GermanEnglish": "vierundsiebzig"
+    },
+    {
+        "id": 75,
+        "GermanEnglish": "fünfundsiebzig"
+    },
+    {
+        "id": 76,
+        "GermanEnglish": "sechsundsiebzig"
+    },
+    {
+        "id": 77,
+        "GermanEnglish": "siebenundsiebzig"
+    },
+    {
+        "id": 78,
+        "GermanEnglish": "achtundsiebzig"
+    },
+    {
+        "id": 79,
+        "GermanEnglish": "neunundsiebzig"
+    },
+    {
+        "id": 80,
+        "GermanEnglish": "achtzig"
+    },
+    {
+        "id": 81,
+        "GermanEnglish": "einundachtzig"
+    },
+    {
+        "id": 82,
+        "GermanEnglish": "zweiundachtzig"
+    },
+    {
+        "id": 83,
+        "GermanEnglish": "dreiundachtzig"
+    },
+    {
+        "id": 84,
+        "GermanEnglish": "vierundachtzig"
+    },
+    {
+        "id": 85,
+        "GermanEnglish": "fünfundachtzig"
+    },
+    {
+        "id": 86,
+        "GermanEnglish": "sechsundachtzig"
+    },
+    {
+        "id": 87,
+        "GermanEnglish": "siebenundachtzig"
+    },
+    {
+        "id": 88,
+        "GermanEnglish": "achtundachtzig"
+    },
+    {
+        "id": 89,
+        "GermanEnglish": "neunundachtzig"
+    },
+    {
+        "id": 90,
+        "GermanEnglish": "neunzig"
+    },
+    {
+        "id": 91,
+        "GermanEnglish": "einundneunzig"
+    },
+    {
+        "id": 92,
+        "GermanEnglish": "zweiundneunzig"
+    },
+    {
+        "id": 93,
+        "GermanEnglish": "dreiundneunzig"
+    },
+    {
+        "id": 94,
+        "GermanEnglish": "vierundneunzig"
+    },
+    {
+        "id": 95,
+        "GermanEnglish": "fünfundneunzig"
+    },
+    {
+        "id": 96,
+        "GermanEnglish": "sechsundneunzig"
+    },
+    {
+        "id": 97,
+        "GermanEnglish": "siebenundneunzig"
+    },
+    {
+        "id": 98,
+        "GermanEnglish": "achtundneunzig"
+    },
+    {
+        "id": 99,
+        "GermanEnglish": "neunundneunzig"
+    },
+    {
+        "id": 100,
+        "GermanEnglish": "einhundert"
+    },
+    {
+        "id": 101,
+        "GermanEnglish": "einhunderteins"
+    },
+    {
+        "id": 102,
+        "GermanEnglish": "einhundertzwei"
+    },
+    {
+        "id": 103,
+        "GermanEnglish": "einhundertdrei"
+    },
+    {
+        "id": 104,
+        "GermanEnglish": "einhundertvier"
+    },
+    {
+        "id": 105,
+        "GermanEnglish": "einhundertfünf"
+    },
+    {
+        "id": 106,
+        "GermanEnglish": "einhundertsechs"
+    },
+    {
+        "id": 107,
+        "GermanEnglish": "einhundertsieben"
+    },
+    {
+        "id": 108,
+        "GermanEnglish": "einhundertacht"
+    },
+    {
+        "id": 109,
+        "GermanEnglish": "einhundertneun"
+    },
+    {
+        "id": 110,
+        "GermanEnglish": "einhundertzehn"
+    },
+    {
+        "id": 111,
+        "GermanEnglish": "einhundertelf"
+    },
+    {
+        "id": 112,
+        "GermanEnglish": "einhundertzwölf"
+    },
+    {
+        "id": 113,
+        "GermanEnglish": "einhundertdreizehn"
+    },
+    {
+        "id": 114,
+        "GermanEnglish": "einhundertvierzehn"
+    },
+    {
+        "id": 115,
+        "GermanEnglish": "einhundertfünfzehn"
+    },
+    {
+        "id": 116,
+        "GermanEnglish": "einhundertsechzehn"
+    },
+    {
+        "id": 117,
+        "GermanEnglish": "einhundertsiebzehn"
+    },
+    {
+        "id": 118,
+        "GermanEnglish": "einhundertachtzehn"
+    },
+    {
+        "id": 119,
+        "GermanEnglish": "einhundertneunzehn"
+    },
+    {
+        "id": 120,
+        "GermanEnglish": "einhundertzwanzig"
+    },
+    {
+        "id": 121,
+        "GermanEnglish": "einhunderteinundzwanzig"
+    },
+    {
+        "id": 122,
+        "GermanEnglish": "einhundertzweiundzwanzig"
+    },
+    {
+        "id": 123,
+        "GermanEnglish": "einhundertdreiundzwanzig"
+    },
+    {
+        "id": 124,
+        "GermanEnglish": "einhundertvierundzwanzig"
+    },
+    {
+        "id": 125,
+        "GermanEnglish": "einhundertfünfundzwanzig"
+    },
+    {
+        "id": 126,
+        "GermanEnglish": "einhundertsechsundzwanzig"
+    },
+    {
+        "id": 127,
+        "GermanEnglish": "einhundertsiebenundzwanzig"
+    },
+    {
+        "id": 128,
+        "GermanEnglish": "einhundertachtundzwanzig"
+    },
+    {
+        "id": 129,
+        "GermanEnglish": "einhundertneunundzwanzig"
+    },
+    {
+        "id": 130,
+        "GermanEnglish": "einhundertdreißig"
+    },
+    {
+        "id": 131,
+        "GermanEnglish": "einhunderteinunddreißig"
+    },
+    {
+        "id": 132,
+        "GermanEnglish": "einhundertzweiunddreißig"
+    },
+    {
+        "id": 133,
+        "GermanEnglish": "einhundertdreiunddreißig"
+    },
+    {
+        "id": 134,
+        "GermanEnglish": "einhundertvierunddreißig"
+    },
+    {
+        "id": 135,
+        "GermanEnglish": "einhundertfünfunddreißig"
+    },
+    {
+        "id": 136,
+        "GermanEnglish": "einhundertsechsunddreißig"
+    },
+    {
+        "id": 137,
+        "GermanEnglish": "einhundertsiebenunddreißig"
+    },
+    {
+        "id": 138,
+        "GermanEnglish": "einhundertachtunddreißig"
+    },
+    {
+        "id": 139,
+        "GermanEnglish": "einhundertneununddreißig"
+    },
+    {
+        "id": 140,
+        "GermanEnglish": "einhundertvierzig"
+    },
+    {
+        "id": 141,
+        "GermanEnglish": "einhunderteinundvierzig"
+    },
+    {
+        "id": 142,
+        "GermanEnglish": "einhundertzweiundvierzig"
+    },
+    {
+        "id": 143,
+        "GermanEnglish": "einhundertdreiundvierzig"
+    },
+    {
+        "id": 144,
+        "GermanEnglish": "einhundertvierundvierzig"
+    },
+    {
+        "id": 145,
+        "GermanEnglish": "einhundertfünfundvierzig"
+    },
+    {
+        "id": 146,
+        "GermanEnglish": "einhundertsechsundvierzig"
+    },
+    {
+        "id": 147,
+        "GermanEnglish": "einhundertsiebenundvierzig"
+    },
+    {
+        "id": 148,
+        "GermanEnglish": "einhundertachtundvierzig"
+    },
+    {
+        "id": 149,
+        "GermanEnglish": "einhundertneunundvierzig"
+    },
+    {
+        "id": 150,
+        "GermanEnglish": "einhundertfünfzig"
+    },
+    {
+        "id": 151,
+        "GermanEnglish": "einhunderteinundfünfzig"
+    },
+    {
+        "id": 152,
+        "GermanEnglish": "einhundertzweiundfünfzig"
+    },
+    {
+        "id": 153,
+        "GermanEnglish": "einhundertdreiundfünfzig"
+    },
+    {
+        "id": 154,
+        "GermanEnglish": "einhundertvierundfünfzig"
+    },
+    {
+        "id": 155,
+        "GermanEnglish": "einhundertfünfundfünfzig"
+    },
+    {
+        "id": 156,
+        "GermanEnglish": "einhundertsechsundfünfzig"
+    },
+    {
+        "id": 157,
+        "GermanEnglish": "einhundertsiebenundfünfzig"
+    },
+    {
+        "id": 158,
+        "GermanEnglish": "einhundertachtundfünfzig"
+    },
+    {
+        "id": 159,
+        "GermanEnglish": "einhundertneunundfünfzig"
+    },
+    {
+        "id": 160,
+        "GermanEnglish": "einhundertsechzig"
+    },
+    {
+        "id": 161,
+        "GermanEnglish": "einhunderteinundsechzig"
+    },
+    {
+        "id": 162,
+        "GermanEnglish": "einhundertzweiundsechzig"
+    },
+    {
+        "id": 163,
+        "GermanEnglish": "einhundertdreiundsechzig"
+    },
+    {
+        "id": 164,
+        "GermanEnglish": "einhundertvierundsechzig"
+    },
+    {
+        "id": 165,
+        "GermanEnglish": "einhundertfünfundsechzig"
+    },
+    {
+        "id": 166,
+        "GermanEnglish": "einhundertsechsundsechzig"
+    },
+    {
+        "id": 167,
+        "GermanEnglish": "einhundertsiebenundsechzig"
+    },
+    {
+        "id": 168,
+        "GermanEnglish": "einhundertachtundsechzig"
+    },
+    {
+        "id": 169,
+        "GermanEnglish": "einhundertneunundsechzig"
+    },
+    {
+        "id": 170,
+        "GermanEnglish": "einhundertsiebzig"
+    },
+    {
+        "id": 171,
+        "GermanEnglish": "einhunderteinundsiebzig"
+    },
+    {
+        "id": 172,
+        "GermanEnglish": "einhundertzweiundsiebzig"
+    },
+    {
+        "id": 173,
+        "GermanEnglish": "einhundertdreiundsiebzig"
+    },
+    {
+        "id": 174,
+        "GermanEnglish": "einhundertvierundsiebzig"
+    },
+    {
+        "id": 175,
+        "GermanEnglish": "einhundertfünfundsiebzig"
+    },
+    {
+        "id": 176,
+        "GermanEnglish": "einhundertsechsundsiebzig"
+    },
+    {
+        "id": 177,
+        "GermanEnglish": "einhundertsiebenundsiebzig"
+    },
+    {
+        "id": 178,
+        "GermanEnglish": "einhundertachtundsiebzig"
+    },
+    {
+        "id": 179,
+        "GermanEnglish": "einhundertneunundsiebzig"
+    },
+    {
+        "id": 180,
+        "GermanEnglish": "einhundertachtzig"
+    },
+    {
+        "id": 181,
+        "GermanEnglish": "einhunderteinundachtzig"
+    },
+    {
+        "id": 182,
+        "GermanEnglish": "einhundertzweiundachtzig"
+    },
+    {
+        "id": 183,
+        "GermanEnglish": "einhundertdreiundachtzig"
+    },
+    {
+        "id": 184,
+        "GermanEnglish": "einhundertvierundachtzig"
+    },
+    {
+        "id": 185,
+        "GermanEnglish": "einhundertfünfundachtzig"
+    },
+    {
+        "id": 186,
+        "GermanEnglish": "einhundertsechsundachtzig"
+    },
+    {
+        "id": 187,
+        "GermanEnglish": "einhundertsiebenundachtzig"
+    },
+    {
+        "id": 188,
+        "GermanEnglish": "einhundertachtundachtzig"
+    },
+    {
+        "id": 189,
+        "GermanEnglish": "einhundertneunundachtzig"
+    },
+    {
+        "id": 190,
+        "GermanEnglish": "einhundertneunzig"
+    },
+    {
+        "id": 191,
+        "GermanEnglish": "einhunderteinundneunzig"
+    },
+    {
+        "id": 192,
+        "GermanEnglish": "einhundertzweiundneunzig"
+    },
+    {
+        "id": 193,
+        "GermanEnglish": "einhundertdreiundneunzig"
+    },
+    {
+        "id": 194,
+        "GermanEnglish": "einhundertvierundneunzig"
+    },
+    {
+        "id": 195,
+        "GermanEnglish": "einhundert"
+    },
+    {
+        "id": 196,
+        "GermanEnglish": "einhundertsechsundneunzig"
+    },
+    {
+        "id": 197,
+        "GermanEnglish": "einhundertsiebenundneunzig"
+    },
+    {
+        "id": 198,
+        "GermanEnglish": "einhundertachtundneunzig"
+    },
+    {
+        "id": 199,
+        "GermanEnglish": "einhundertneunundneunzig"
+    },
+    {
+        "id": 200,
+        "GermanEnglish": "zweihundert"
+    },
+    {
+        "id": 201,
+        "GermanEnglish": "zweihunderteins"
+    },
+    {
+        "id": 202,
+        "GermanEnglish": "zweihundertzwei"
+    },
+    {
+        "id": 203,
+        "GermanEnglish": "zweihundertdrei"
+    },
+    {
+        "id": 204,
+        "GermanEnglish": "zweihundertvier"
+    },
+    {
+        "id": 205,
+        "GermanEnglish": "zweihundertfünf"
+    },
+    {
+        "id": 206,
+        "GermanEnglish": "zweihundertsechs"
+    },
+    {
+        "id": 207,
+        "GermanEnglish": "zweihundertsieben"
+    },
+    {
+        "id": 208,
+        "GermanEnglish": "zweihundertacht"
+    },
+    {
+        "id": 209,
+        "GermanEnglish": "zweihundertneun"
+    },
+    {
+        "id": 210,
+        "GermanEnglish": "zweihundertzehn"
+    },
+    {
+        "id": 211,
+        "GermanEnglish": "zweihundertelf"
+    },
+    {
+        "id": 212,
+        "GermanEnglish": "zweihundertzwoelf"
+    },
+    {
+        "id": 213,
+        "GermanEnglish": "zweihundertdreizehn"
+    },
+    {
+        "id": 214,
+        "GermanEnglish": "zweihundertvierzehn"
+    },
+    {
+        "id": 215,
+        "GermanEnglish": "zweihundertfuenfzehn"
+    },
+    {
+        "id": 216,
+        "GermanEnglish": "zweihundertsechzehn"
+    },
+    {
+        "id": 217,
+        "GermanEnglish": "zweihundertsiebzehn"
+    },
+    {
+        "id": 218,
+        "GermanEnglish": "zweihundertachtzehn"
+    },
+    {
+        "id": 219,
+        "GermanEnglish": "zweihundertneunzehn"
+    },
+    {
+        "id": 220,
+        "GermanEnglish": "zweihundertzwanzig"
+    },
+    {
+        "id": 221,
+        "GermanEnglish": "zweihunderteinundzwanzig"
+    },
+    {
+        "id": 222,
+        "GermanEnglish": "zweihundertzweiundzwanzig"
+    },
+    {
+        "id": 223,
+        "GermanEnglish": "zweihundertdreiundzwanzig"
+    },
+    {
+        "id": 224,
+        "GermanEnglish": "zweihundertvierundzwanzig"
+    },
+    {
+        "id": 225,
+        "GermanEnglish": "zweihundertfünfundzwanzig"
+    },
+    {
+        "id": 226,
+        "GermanEnglish": "zweihundertsechsundzwanzig"
+    },
+    {
+        "id": 227,
+        "GermanEnglish": "zweihundertsiebenundzwanzig"
+    },
+    {
+        "id": 228,
+        "GermanEnglish": "zweihundertachtundzwanzig"
+    },
+    {
+        "id": 229,
+        "GermanEnglish": "zweihundertneunundzwanzig"
+    },
+    {
+        "id": 230,
+        "GermanEnglish": "zweihundertdreißig"
+    },
+    {
+        "id": 231,
+        "GermanEnglish": "zweihunderteinunddreißig"
+    },
+    {
+        "id": 232,
+        "GermanEnglish": "zweihundertzweiunddreißig"
+    },
+    {
+        "id": 233,
+        "GermanEnglish": "zweihundertdreiunddreißig"
+    },
+    {
+        "id": 234,
+        "GermanEnglish": "zweihundertvierunddreißig"
+    },
+    {
+        "id": 235,
+        "GermanEnglish": "zweihundertfünfunddreißig"
+    },
+    {
+        "id": 236,
+        "GermanEnglish": "zweihundertsechsunddreißig"
+    },
+    {
+        "id": 237,
+        "GermanEnglish": "zweihundertsiebenunddreißig"
+    },
+    {
+        "id": 238,
+        "GermanEnglish": "zweihundertachtunddreißig"
+    },
+    {
+        "id": 239,
+        "GermanEnglish": "zweihundertneununddreißig"
+    },
+    {
+        "id": 240,
+        "GermanEnglish": "zweihundertvierzig"
+    },
+    {
+        "id": 241,
+        "GermanEnglish": "zweihunderteinundvierzig"
+    },
+    {
+        "id": 242,
+        "GermanEnglish": "zweihundertzweiundvierzig"
+    },
+    {
+        "id": 243,
+        "GermanEnglish": "zweihundertdreiundvierzig"
+    },
+    {
+        "id": 244,
+        "GermanEnglish": "zweihundertvierundvierzig"
+    },
+    {
+        "id": 245,
+        "GermanEnglish": "zweihundertfünfundvierzig"
+    },
+    {
+        "id": 246,
+        "GermanEnglish": "zweihundertsechsundvierzig"
+    },
+    {
+        "id": 247,
+        "GermanEnglish": "zweihundertsiebenundvierzig"
+    },
+    {
+        "id": 248,
+        "GermanEnglish": "zweihundertachtundvierzig"
+    },
+    {
+        "id": 249,
+        "GermanEnglish": "zweihundertneunundvierzig"
+    },
+    {
+        "id": 250,
+        "GermanEnglish": "zweihundertfünfzig"
+    },
+    {
+        "id": 251,
+        "GermanEnglish": "zweihunderteinundfünfzig"
+    },
+    {
+        "id": 252,
+        "GermanEnglish": "zweihundertzweiundfünfzig"
+    },
+    {
+        "id": 253,
+        "GermanEnglish": "zweihundertdreiundfünfzig"
+    },
+    {
+        "id": 254,
+        "GermanEnglish": "zweihundertvierundfünfzig"
+    },
+    {
+        "id": 255,
+        "GermanEnglish": "zweihundertfünfundfünfzig"
+    },
+    {
+        "id": 256,
+        "GermanEnglish": "zweihundertsechsundfünfzig"
+    },
+    {
+        "id": 257,
+        "GermanEnglish": "zweihundertsiebenundfünfzig"
+    },
+    {
+        "id": 258,
+        "GermanEnglish": "zweihundertachtundfünfzig"
+    },
+    {
+        "id": 259,
+        "GermanEnglish": "zweihundertneunundfünfzig"
+    },
+    {
+        "id": 260,
+        "GermanEnglish": "zweihundertsechzig"
+    },
+    {
+        "id": 261,
+        "GermanEnglish": "zweihunderteinundsechzig"
+    },
+    {
+        "id": 262,
+        "GermanEnglish": "zweihundertzweiundsechzig"
+    },
+    {
+        "id": 263,
+        "GermanEnglish": "zweihundertdreiundsechzig"
+    },
+    {
+        "id": 264,
+        "GermanEnglish": "zweihundertvierundsechzig"
+    },
+    {
+        "id": 265,
+        "GermanEnglish": "zweihundertfünfundsechzig"
+    },
+    {
+        "id": 266,
+        "GermanEnglish": "zweihundertsechsundsechzig"
+    },
+    {
+        "id": 267,
+        "GermanEnglish": "zweihundertsiebenundsechzig"
+    },
+    {
+        "id": 268,
+        "GermanEnglish": "zweihundertachtundsechzig"
+    },
+    {
+        "id": 269,
+        "GermanEnglish": "zweihundertneunundsechzig"
+    },
+    {
+        "id": 270,
+        "GermanEnglish": "zweihundertsiebzig"
+    },
+    {
+        "id": 271,
+        "GermanEnglish": "zweihunderteinundsiebzig"
+    },
+    {
+        "id": 272,
+        "GermanEnglish": "zweihundertzweiundsiebzig"
+    },
+    {
+        "id": 273,
+        "GermanEnglish": "zweihundertdreiundsiebzig"
+    },
+    {
+        "id": 274,
+        "GermanEnglish": "zweihundertvierundsiebzig"
+    },
+    {
+        "id": 275,
+        "GermanEnglish": "zweihundertfünfundsiebzig"
+    },
+    {
+        "id": 276,
+        "GermanEnglish": "zweihundertsechsundsiebzig"
+    },
+    {
+        "id": 277,
+        "GermanEnglish": "zweihundertsiebenundsiebzig"
+    },
+    {
+        "id": 278,
+        "GermanEnglish": "zweihundertachtundsiebzig"
+    },
+    {
+        "id": 279,
+        "GermanEnglish": "zweihundertneunundsiebzig"
+    },
+    {
+        "id": 280,
+        "GermanEnglish": "zweihundertachtzig"
+    },
+    {
+        "id": 281,
+        "GermanEnglish": "zweihunderteinundachtzig"
+    },
+    {
+        "id": 282,
+        "GermanEnglish": "zweihundertzweiundachtzig"
+    },
+    {
+        "id": 283,
+        "GermanEnglish": "zweihundertdreiundachtzig"
+    },
+    {
+        "id": 284,
+        "GermanEnglish": "zweihundertvierundachtzig"
+    },
+    {
+        "id": 285,
+        "GermanEnglish": "zweihundertfünfundachtzig"
+    },
+    {
+        "id": 286,
+        "GermanEnglish": "zweihundertsechsundachtzig"
+    },
+    {
+        "id": 287,
+        "GermanEnglish": "zweihundertsiebenundachtzig"
+    },
+    {
+        "id": 288,
+        "GermanEnglish": "zweihundertachtundachtzig"
+    },
+    {
+        "id": 289,
+        "GermanEnglish": "zweihundertneunundachtzig"
+    },
+    {
+        "id": 290,
+        "GermanEnglish": "zweihundertneunzig"
+    },
+    {
+        "id": 291,
+        "GermanEnglish": "zweihunderteinundneunzig"
+    },
+    {
+        "id": 292,
+        "GermanEnglish": "zweihundertzweiundneunzig"
+    },
+    {
+        "id": 293,
+        "GermanEnglish": "zweihundertdreiundneunzig"
+    },
+    {
+        "id": 294,
+        "GermanEnglish": "zweihundertvierundneunzig"
+    },
+    {
+        "id": 295,
+        "GermanEnglish": "zweihundertfünfundneunzig"
+    },
+    {
+        "id": 296,
+        "GermanEnglish": "zweihundertsechsundneunzig"
+    },
+    {
+        "id": 297,
+        "GermanEnglish": "zweihundertsiebenundneunzig"
+    },
+    {
+        "id": 298,
+        "GermanEnglish": "zweihundertachtundneunzig"
+    },
+    {
+        "id": 299,
+        "GermanEnglish": "zweihundertneunundneunzig"
+    },
+    {
+        "id": 300,
+        "GermanEnglish": "dreihundert"
+    },
+    {
+        "id": 301,
+        "GermanEnglish": "dreihunderteins"
+    },
+    {
+        "id": 302,
+        "GermanEnglish": "dreihundertzwei"
+    },
+    {
+        "id": 303,
+        "GermanEnglish": "dreihundertdrei"
+    },
+    {
+        "id": 304,
+        "GermanEnglish": "dreihundertvier"
+    },
+    {
+        "id": 305,
+        "GermanEnglish": "dreihundertfünf"
+    },
+    {
+        "id": 306,
+        "GermanEnglish": "dreihundertsechs"
+    },
+    {
+        "id": 307,
+        "GermanEnglish": "dreihundertsieben"
+    },
+    {
+        "id": 308,
+        "GermanEnglish": "dreihundertacht"
+    },
+    {
+        "id": 309,
+        "GermanEnglish": "dreihundertneun"
+    },
+    {
+        "id": 310,
+        "GermanEnglish": "dreihundertzehn"
+    },
+    {
+        "id": 311,
+        "GermanEnglish": "dreihundertelf"
+    },
+    {
+        "id": 312,
+        "GermanEnglish": "dreihundertzwölf"
+    },
+    {
+        "id": 313,
+        "GermanEnglish": "dreihundertdreizehn"
+    },
+    {
+        "id": 314,
+        "GermanEnglish": "dreihundertvierzehn"
+    },
+    {
+        "id": 315,
+        "GermanEnglish": "dreihundertfünfzehn"
+    },
+    {
+        "id": 316,
+        "GermanEnglish": "dreihundertsechzehn"
+    },
+    {
+        "id": 317,
+        "GermanEnglish": "dreihundertsiebzehn"
+    },
+    {
+        "id": 318,
+        "GermanEnglish": "dreihundertachtzehn"
+    },
+    {
+        "id": 319,
+        "GermanEnglish": "dreihundertneunzehn"
+    },
+    {
+        "id": 320,
+        "GermanEnglish": "dreihundertzwanzig"
+    },
+    {
+        "id": 321,
+        "GermanEnglish": "dreihunderteinundzwanzig"
+    },
+    {
+        "id": 322,
+        "GermanEnglish": "dreihundertzweiundzwanzig"
+    },
+    {
+        "id": 323,
+        "GermanEnglish": "dreihundertdreiundzwanzig"
+    },
+    {
+        "id": 324,
+        "GermanEnglish": "dreihundertvierundzwanzig"
+    },
+    {
+        "id": 325,
+        "GermanEnglish": "dreihundertfünfundzwanzig"
+    },
+    {
+        "id": 326,
+        "GermanEnglish": "dreihundertsechsundzwanzig"
+    },
+    {
+        "id": 327,
+        "GermanEnglish": "dreihundertsiebenundzwanzig"
+    },
+    {
+        "id": 328,
+        "GermanEnglish": "dreihundertachtundzwanzig"
+    },
+    {
+        "id": 329,
+        "GermanEnglish": "dreihundertneunundzwanzig"
+    },
+    {
+        "id": 330,
+        "GermanEnglish": "dreihundertdreißig"
+    },
+    {
+        "id": 331,
+        "GermanEnglish": "dreihunderteinunddreißig"
+    },
+    {
+        "id": 332,
+        "GermanEnglish": "dreihundertzweiunddreißig"
+    },
+    {
+        "id": 333,
+        "GermanEnglish": "dreihundertdreiunddreißig"
+    },
+    {
+        "id": 334,
+        "GermanEnglish": "dreihundertvierunddreißig"
+    },
+    {
+        "id": 335,
+        "GermanEnglish": "dreihundertfünfunddreißig"
+    },
+    {
+        "id": 336,
+        "GermanEnglish": "dreihundertsechsunddreißig"
+    },
+    {
+        "id": 337,
+        "GermanEnglish": "dreihundertsiebenunddreißig"
+    },
+    {
+        "id": 338,
+        "GermanEnglish": "dreihundertachtunddreißig"
+    },
+    {
+        "id": 339,
+        "GermanEnglish": "dreihundertneununddreißig"
+    },
+    {
+        "id": 340,
+        "GermanEnglish": "dreihundertvierzig"
+    },
+    {
+        "id": 341,
+        "GermanEnglish": "dreihunderteinundvierzig"
+    },
+    {
+        "id": 342,
+        "GermanEnglish": "dreihundertzweiundvierzig"
+    },
+    {
+        "id": 343,
+        "GermanEnglish": "dreihundertdreiundvierzig"
+    },
+    {
+        "id": 344,
+        "GermanEnglish": "dreihundertvierundvierzig"
+    },
+    {
+        "id": 345,
+        "GermanEnglish": "dreihundertfünfundvierzig"
+    },
+    {
+        "id": 346,
+        "GermanEnglish": "dreihundertsechsundvierzig"
+    },
+    {
+        "id": 347,
+        "GermanEnglish": "dreihundertsiebenundvierzig"
+    },
+    {
+        "id": 348,
+        "GermanEnglish": "dreihundertachtundvierzig"
+    },
+    {
+        "id": 349,
+        "GermanEnglish": "dreihundertneunundvierzig"
+    },
+    {
+        "id": 350,
+        "GermanEnglish": "dreihundertfünfzig"
+    },
+    {
+        "id": 351,
+        "GermanEnglish": "dreihunderteinundfünfzig"
+    },
+    {
+        "id": 352,
+        "GermanEnglish": "dreihundertzweiundfünfzig"
+    },
+    {
+        "id": 353,
+        "GermanEnglish": "dreihundertdreiundfünfzig"
+    },
+    {
+        "id": 354,
+        "GermanEnglish": "dreihundertvierundfünfzig"
+    },
+    {
+        "id": 355,
+        "GermanEnglish": "dreihundertfünfundfünfzig"
+    },
+    {
+        "id": 356,
+        "GermanEnglish": "dreihundertsechsundfünfzig"
+    },
+    {
+        "id": 357,
+        "GermanEnglish": "dreihundertsiebenundfünfzig"
+    },
+    {
+        "id": 358,
+        "GermanEnglish": "dreihundertachtundfünfzig"
+    },
+    {
+        "id": 359,
+        "GermanEnglish": "dreihundertneunundfünfzig"
+    },
+    {
+        "id": 360,
+        "GermanEnglish": "dreihundertsechzig"
+    },
+    {
+        "id": 361,
+        "GermanEnglish": "dreihunderteinundsechzig"
+    },
+    {
+        "id": 362,
+        "GermanEnglish": "dreihundertzweiundsechzig"
+    },
+    {
+        "id": 363,
+        "GermanEnglish": "dreihundertdreiundsechzig"
+    },
+    {
+        "id": 364,
+        "GermanEnglish": "dreihundertvierundsechzig"
+    },
+    {
+        "id": 365,
+        "GermanEnglish": "dreihundertfünfundsechzig"
+    },
+    {
+        "id": 366,
+        "GermanEnglish": "dreihundertsechsundsechzig"
+    },
+    {
+        "id": 367,
+        "GermanEnglish": "dreihundertsiebenundsechzig"
+    },
+    {
+        "id": 368,
+        "GermanEnglish": "dreihundertachtundsechzig"
+    },
+    {
+        "id": 369,
+        "GermanEnglish": "dreihundertneunundsechzig"
+    },
+    {
+        "id": 370,
+        "GermanEnglish": "dreihundertsiebzig"
+    },
+    {
+        "id": 371,
+        "GermanEnglish": "dreihunderteinundsiebzig"
+    },
+    {
+        "id": 372,
+        "GermanEnglish": "dreihundertzweiundsiebzig"
+    },
+    {
+        "id": 373,
+        "GermanEnglish": "dreihundertdreiundsiebzig"
+    },
+    {
+        "id": 374,
+        "GermanEnglish": "dreihundertvierundsiebzig"
+    },
+    {
+        "id": 375,
+        "GermanEnglish": "dreihundertfünfundsiebzig"
+    },
+    {
+        "id": 376,
+        "GermanEnglish": "dreihundertsechsundsiebzig"
+    },
+    {
+        "id": 377,
+        "GermanEnglish": "dreihundertsiebenundsiebzig"
+    },
+    {
+        "id": 378,
+        "GermanEnglish": "dreihundertachtundsiebzig"
+    },
+    {
+        "id": 379,
+        "GermanEnglish": "dreihundertneunundsiebzig"
+    },
+    {
+        "id": 380,
+        "GermanEnglish": "dreihundertachtzig"
+    },
+    {
+        "id": 381,
+        "GermanEnglish": "dreihunderteinundachtzig"
+    },
+    {
+        "id": 382,
+        "GermanEnglish": "dreihundertzweiundachtzig"
+    },
+    {
+        "id": 383,
+        "GermanEnglish": "dreihundertdreiundachtzig"
+    },
+    {
+        "id": 384,
+        "GermanEnglish": "dreihundertvierundachtzig"
+    },
+    {
+        "id": 385,
+        "GermanEnglish": "dreihundertfünfundachtzig"
+    },
+    {
+        "id": 386,
+        "GermanEnglish": "dreihundertsechsundachtzig"
+    },
+    {
+        "id": 387,
+        "GermanEnglish": "dreihundertsiebenundachtzig"
+    },
+    {
+        "id": 388,
+        "GermanEnglish": "dreihundertachtundachtzig"
+    },
+    {
+        "id": 389,
+        "GermanEnglish": "dreihundertneunundachtzig"
+    },
+    {
+        "id": 390,
+        "GermanEnglish": "dreihundertneunzig"
+    },
+    {
+        "id": 391,
+        "GermanEnglish": "dreihunderteinundneunzig"
+    },
+    {
+        "id": 392,
+        "GermanEnglish": "dreihundertzweiundneunzig"
+    },
+    {
+        "id": 393,
+        "GermanEnglish": "dreihundertdreiundneunzig"
+    },
+    {
+        "id": 394,
+        "GermanEnglish": "dreihundertvierundneunzig"
+    },
+    {
+        "id": 395,
+        "GermanEnglish": "dreihundertfünfundneunzig"
+    },
+    {
+        "id": 396,
+        "GermanEnglish": "dreihundertsechsundneunzig"
+    },
+    {
+        "id": 397,
+        "GermanEnglish": "dreihundertsiebenundneunzig"
+    },
+    {
+        "id": 398,
+        "GermanEnglish": "dreihundertachtundneunzig"
+    },
+    {
+        "id": 399,
+        "GermanEnglish": "dreihundertneunundneunzig"
+    },
+    {
+        "id": 400,
+        "GermanEnglish": "vierhundert"
+    },
+    {
+        "id": 401,
+        "GermanEnglish": "vierhunderteins"
+    },
+    {
+        "id": 402,
+        "GermanEnglish": "vierhundertzwei"
+    },
+    {
+        "id": 403,
+        "GermanEnglish": "vierhundertdrei"
+    },
+    {
+        "id": 404,
+        "GermanEnglish": "vierhundertvier"
+    },
+    {
+        "id": 405,
+        "GermanEnglish": "vierhundertfünf"
+    },
+    {
+        "id": 406,
+        "GermanEnglish": "vierhundertsechs"
+    },
+    {
+        "id": 407,
+        "GermanEnglish": "vierhundertsieben"
+    },
+    {
+        "id": 408,
+        "GermanEnglish": "vierhundertacht"
+    },
+    {
+        "id": 409,
+        "GermanEnglish": "vierhundertneun"
+    },
+    {
+        "id": 410,
+        "GermanEnglish": "vierhundertzehn"
+    },
+    {
+        "id": 411,
+        "GermanEnglish": "vierhundertelf"
+    },
+    {
+        "id": 412,
+        "GermanEnglish": "vierhundertzwölf"
+    },
+    {
+        "id": 413,
+        "GermanEnglish": "vierhundertdreizehn"
+    },
+    {
+        "id": 414,
+        "GermanEnglish": "vierhundertvierzehn"
+    },
+    {
+        "id": 415,
+        "GermanEnglish": "vierhundertfünfzehn"
+    },
+    {
+        "id": 416,
+        "GermanEnglish": "vierhundertsechzehn"
+    },
+    {
+        "id": 417,
+        "GermanEnglish": "vierhundertsiebzehn"
+    },
+    {
+        "id": 418,
+        "GermanEnglish": "vierhundertachtzehn"
+    },
+    {
+        "id": 419,
+        "GermanEnglish": "vierhundertneunzehn"
+    },
+    {
+        "id": 420,
+        "GermanEnglish": "vierhundertzwanzig"
+    },
+    {
+        "id": 421,
+        "GermanEnglish": "vierhunderteinundzwanzig"
+    },
+    {
+        "id": 422,
+        "GermanEnglish": "vierhundertzweiundzwanzig"
+    },
+    {
+        "id": 423,
+        "GermanEnglish": "vierhundertdreiundzwanz"
+    },
+    {
+        "id": 424,
+        "GermanEnglish": "vierhundertvierundzwanzig"
+    },
+    {
+        "id": 425,
+        "GermanEnglish": "vierhundertfünfundzwanzig"
+    },
+    {
+        "id": 426,
+        "GermanEnglish": "vierhundertsechsundzwanzig"
+    },
+    {
+        "id": 427,
+        "GermanEnglish": "vierhundertsiebenundzwanzig"
+    },
+    {
+        "id": 428,
+        "GermanEnglish": "vierhundertachtundzwanzig"
+    },
+    {
+        "id": 429,
+        "GermanEnglish": "vierhundertneunundzwanzig"
+    },
+    {
+        "id": 430,
+        "GermanEnglish": "vierhundertdreißig"
+    },
+    {
+        "id": 431,
+        "GermanEnglish": "vierhunderteinunddreißig"
+    },
+    {
+        "id": 432,
+        "GermanEnglish": "vierhundertzweiunddreißig"
+    },
+    {
+        "id": 433,
+        "GermanEnglish": "vierhundertdreiunddreißig"
+    },
+    {
+        "id": 434,
+        "GermanEnglish": "vierhundertvierunddreißig"
+    },
+    {
+        "id": 435,
+        "GermanEnglish": "vierhundertfünfunddreißig"
+    },
+    {
+        "id": 436,
+        "GermanEnglish": "vierhundertsechsunddreißig"
+    },
+    {
+        "id": 437,
+        "GermanEnglish": "vierhundertsiebenunddreißig"
+    },
+    {
+        "id": 438,
+        "GermanEnglish": "vierhundertachtunddreißig"
+    },
+    {
+        "id": 439,
+        "GermanEnglish": "vierhundertneununddreißig"
+    },
+    {
+        "id": 440,
+        "GermanEnglish": "vierhundertvierzig"
+    },
+    {
+        "id": 441,
+        "GermanEnglish": "vierhunderteinundvierzig"
+    },
+    {
+        "id": 442,
+        "GermanEnglish": "vierhundertzweiundvierzig"
+    },
+    {
+        "id": 443,
+        "GermanEnglish": "vierhundertdreiundvierzig"
+    },
+    {
+        "id": 444,
+        "GermanEnglish": "vierhundertvierundvierzig"
+    },
+    {
+        "id": 445,
+        "GermanEnglish": "vierhundertfünfundvierzig"
+    },
+    {
+        "id": 446,
+        "GermanEnglish": "vierhundertsechsundvierzig"
+    },
+    {
+        "id": 447,
+        "GermanEnglish": "vierhundertsiebenundvierzig"
+    },
+    {
+        "id": 448,
+        "GermanEnglish": "vierhundertachtundvierzig"
+    },
+    {
+        "id": 449,
+        "GermanEnglish": "vierhundertneunundvierzig"
+    },
+    {
+        "id": 450,
+        "GermanEnglish": "vierhundertfünfzig"
+    },
+    {
+        "id": 451,
+        "GermanEnglish": "vierhunderteinundfünfzig"
+    },
+    {
+        "id": 452,
+        "GermanEnglish": "vierhundertzweiundfünfzig"
+    },
+    {
+        "id": 453,
+        "GermanEnglish": "vierhundertdreiundfünfzig"
+    },
+    {
+        "id": 454,
+        "GermanEnglish": "vierhundertvierundfünfzig"
+    },
+    {
+        "id": 455,
+        "GermanEnglish": "vierhundertfünfundfünfzig"
+    },
+    {
+        "id": 456,
+        "GermanEnglish": "vierhundertsechsundfünfzig"
+    },
+    {
+        "id": 457,
+        "GermanEnglish": "vierhundertsiebenundfünfzig"
+    },
+    {
+        "id": 458,
+        "GermanEnglish": "vierhundertachtundfünfzig"
+    },
+    {
+        "id": 459,
+        "GermanEnglish": "vierhundertneunundfünfzig"
+    },
+    {
+        "id": 460,
+        "GermanEnglish": "vierhundertsechzig"
+    },
+    {
+        "id": 461,
+        "GermanEnglish": "vierhunderteinundsechzig"
+    },
+    {
+        "id": 462,
+        "GermanEnglish": "vierhundertzweiundsechzig"
+    },
+    {
+        "id": 463,
+        "GermanEnglish": "vierhundertdreiundsechzig"
+    },
+    {
+        "id": 464,
+        "GermanEnglish": "vierhundertvierundsechzig"
+    },
+    {
+        "id": 465,
+        "GermanEnglish": "vierhundertfünfundsechzig"
+    },
+    {
+        "id": 466,
+        "GermanEnglish": "vierhundertsechsundsechzig"
+    },
+    {
+        "id": 467,
+        "GermanEnglish": "vierhundertsiebenundsechzig"
+    },
+    {
+        "id": 468,
+        "GermanEnglish": "vierhundertachtundsechzig"
+    },
+    {
+        "id": 469,
+        "GermanEnglish": "vierhundertneunundsechzig"
+    },
+    {
+        "id": 470,
+        "GermanEnglish": "vierhundertsiebzig"
+    },
+    {
+        "id": 471,
+        "GermanEnglish": "vierhunderteinundsiebzig"
+    },
+    {
+        "id": 472,
+        "GermanEnglish": "vierhundertzweiundsiebzig"
+    },
+    {
+        "id": 473,
+        "GermanEnglish": "vierhundertdreiundsiebzig"
+    },
+    {
+        "id": 474,
+        "GermanEnglish": "vierhundertvierundsiebzig"
+    },
+    {
+        "id": 475,
+        "GermanEnglish": "vierhundertfünfundsiebzig"
+    },
+    {
+        "id": 476,
+        "GermanEnglish": "vierhundertsechsundsiebzig"
+    },
+    {
+        "id": 477,
+        "GermanEnglish": "vierhundertsiebenundsiebzig"
+    },
+    {
+        "id": 478,
+        "GermanEnglish": "vierhundertachtundsiebzig"
+    },
+    {
+        "id": 479,
+        "GermanEnglish": "vierhundertneunundsiebzig"
+    },
+    {
+        "id": 480,
+        "GermanEnglish": "vierhundertachtzig"
+    },
+    {
+        "id": 481,
+        "GermanEnglish": "vierhunderteinundachtzig"
+    },
+    {
+        "id": 482,
+        "GermanEnglish": "vierhundertzweiundachtzig"
+    },
+    {
+        "id": 483,
+        "GermanEnglish": "vierhundertdreiundachtzig"
+    },
+    {
+        "id": 484,
+        "GermanEnglish": "vierhundertvierundachtzig"
+    },
+    {
+        "id": 485,
+        "GermanEnglish": "vierhundertfünfundachtzig"
+    },
+    {
+        "id": 486,
+        "GermanEnglish": "vierhundertsechsundachtzig"
+    },
+    {
+        "id": 487,
+        "GermanEnglish": "vierhundertsiebenundachtzig"
+    },
+    {
+        "id": 488,
+        "GermanEnglish": "vierhundertachtundachtzig"
+    },
+    {
+        "id": 489,
+        "GermanEnglish": "vierhundertneunundachtzig"
+    },
+    {
+        "id": 490,
+        "GermanEnglish": "vierhundertneunzig"
+    },
+    {
+        "id": 491,
+        "GermanEnglish": "vierhunderteinundneunzig"
+    },
+    {
+        "id": 492,
+        "GermanEnglish": "vierhundertzweiundneunzig"
+    },
+    {
+        "id": 493,
+        "GermanEnglish": "vierhundertdreiundneunzig"
+    },
+    {
+        "id": 494,
+        "GermanEnglish": "vierhundertvierundneunzig"
+    },
+    {
+        "id": 495,
+        "GermanEnglish": "vierhundertfünfundneunzig"
+    },
+    {
+        "id": 496,
+        "GermanEnglish": "vierhundertsechsundneunzig"
+    },
+    {
+        "id": 497,
+        "GermanEnglish": "vierhundertsiebenundneunzig"
+    },
+    {
+        "id": 498,
+        "GermanEnglish": "vierhundertachtundneunzig"
+    },
+    {
+        "id": 499,
+        "GermanEnglish": "vierhundertneunundneunzig"
+    },
+    {
+        "id": 500,
+        "GermanEnglish": "fünfhundert"
+    }
+]
