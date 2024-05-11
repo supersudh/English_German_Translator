@@ -142,5 +142,65 @@
     {
         "id": 35,
         "GermanEnglish": "fünfunddreißig"
+    },
+    {
+        "id": 36,
+        "GermanEnglish": "sechsunddreißig"
+    },
+    {
+        "id": 37,
+        "GermanEnglish": "siebenunddreißig",
+    },
+    {
+        "id": 38,
+        "GermanEnglish": "achtunddreißig"
+    },
+    {
+        "id": 39,
+        "GermanEnglish": "neununddreißig"
+    },
+    {
+        "id": 40,
+        "GermanEnglish": "vierzig"
+    },
+    {
+        "id": 41,
+        "GermanEnglish": "einundvierzig"
+    },
+    {
+        "id": 42,
+        "GermanEnglish": "zweiundvierzig"
+    },
+    {
+        "id": 43,
+        "GermanEnglish": "dreiundvierzig"
+    },
+    {
+        "id": 44,
+        "GermanEnglish": "vierundvierzig"
+    },
+    {
+        "id": 45,
+        "GermanEnglish": "fünfundvierzig"
+    },
+    {
+        "id": 46,
+        "GermanEnglish": "sechsundvierzig"
+    },
+    {
+        "id": 47,
+        "GermanEnglish": "siebenundvierzig"
+    },
+    {
+        "id": 48,
+        "GermanEnglish": "achtundvierzig"
+    },
+    {
+        "id": 49,
+        "GermanEnglish": "neunundvierzig"
+    },
+    {
+        "id": 50,
+        "GermanEnglish": "fünfzig"
     }
 ]
