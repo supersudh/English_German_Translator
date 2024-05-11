@@ -100,7 +100,27 @@
         "GermanEnglish": "vierundzwanzig"
     },
     {
-        "id": 25    ,
+        "id": 25,
         "GermanEnglish": "fünfundzwanzig"
+    },
+    {
+        "id": 26,
+        "GermanEnglish": "sechsundzwanzig"
+    },
+    {
+        "id": 27,
+        "GermanEnglish": "siebenundzwanzig"
+    },
+    {
+        "id": 28,
+        "GermanEnglish": "achtundzwanzig"
+    },
+    {
+        "id": 29,
+        "GermanEnglish": "neunundzwanzig"
+    },
+    {
+        "id": 30,
+        "GermanEnglish": "dreißig"
     }
 ]
