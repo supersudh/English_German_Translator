@@ -15,7 +15,6 @@ async function main() {
             GermanEnglish: result1[i][1]
         });
     }
-
     fs.writeFileSync(`${__dirname}/../dataset/numbersv2.json`, JSON.stringify(result2));
 }
 

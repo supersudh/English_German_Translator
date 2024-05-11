@@ -4,34 +4,44 @@
         "GermanEnglish": "null"
     },
     {
-        "id": 1
+        "id": 1,
+        "GermanEnglish": "eins"
     },
     {
-        "id": 2
+        "id": 2,
+        "GermanEnglish": "zwei"
     },
     {
-        "id": 3
+        "id": 3,
+        "GermanEnglish": "drei"
     },
     {
-        "id": 4
+        "id": 4,
+        "GermanEnglish": "vier"
     },
     {
-        "id": 5
+        "id": 5,
+        "GermanEnglish": "fünf  "
     },
     {
-        "id": 6
+        "id": 6,
+        "GermanEnglish": "sechs"
     },
     {
-        "id": 7
+        "id": 7,
+        "GermanEnglish": "sieben"
     },
     {
-        "id": 8
+        "id": 8,
+        "GermanEnglish": "acht"
     },
     {
-        "id": 9
+        "id": 9,
+        "GermanEnglish": "neun"
     },
     {
-        "id": 10
+        "id": 10,
+        "GermanEnglish": "zehn"
     },
     {
         "id": 11,
