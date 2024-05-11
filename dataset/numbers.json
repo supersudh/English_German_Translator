@@ -202,5 +202,9 @@
     {
         "id": 50,
         "GermanEnglish": "fünfzig"
+    },
+    {
+        "id": 51,
+        "GermanEnglish": "einundfünfzig"
     }
 ]
