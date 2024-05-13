@@ -1,0 +1,34 @@
+[
+    {
+        "English": "a week",
+        "GermanEnglish": "Die Woche"
+    },
+    {
+        "English": "a day",
+        "GermanEnglish": "Der Tag"
+    },
+    {
+        "English": "a month",
+        "GermanEnglish": "Der Monat"
+    },
+    {
+        "English": "a year",
+        "GermanEnglish": "Das Jahr"
+    },
+    {
+        "English": "tomorrow",
+        "GermanEnglish": "Morgen"
+    },
+    {
+        "English": "today",
+        "GermanEnglish": "Heuter"
+    },
+    {
+        "English": "a day after tomorrow",
+        "GermanEnglish": "Übermorgen"
+    },
+    {
+        "English": "yesterday",
+        "GermanEnglish": "Gestern"
+    }
+]
