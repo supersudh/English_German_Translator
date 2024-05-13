@@ -1,0 +1,30 @@
+[
+    {
+        "English": "Monday",
+        "GermanEnglish": "Montag"
+    },
+    {
+        "English": "Tuesday",
+        "GermanEnglish": "Dienstag"
+    },
+    {
+        "English": "Wednesday",
+        "GermanEnglish": "Mittwoch"
+    },
+    {
+        "English": "Thursday",
+        "GermanEnglish": "Donnerstag"
+    },
+    {
+        "English": "Friday",
+        "GermanEnglish": "Freitag"
+    },
+    {
+        "English": "Saturday",
+        "GermanEnglish": "Samstag"
+    },
+    {
+        "English": "Sunday",
+        "GermanEnglish": "Sonntag"
+    }
+]
